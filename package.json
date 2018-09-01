@@ -13,9 +13,14 @@
   "nyc": {
     "lines": 80,
     "functions": 80,
-    "check-coverage":true,
-    "reporter": ["text", "html"],
-    "exclude": ["tests/**"]
+    "check-coverage": true,
+    "reporter": [
+      "text",
+      "html"
+    ],
+    "exclude": [
+      "tests/**"
+    ]
   },
   "author": "Nayton",
   "license": "MIT",

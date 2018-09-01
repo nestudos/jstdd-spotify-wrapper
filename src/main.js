@@ -1,10 +1,6 @@
-const FizzBuzz = (num) => {
-  if (num === 0) return num;
-  if (num % 3 === 0 && num % 5 === 0) return 'FizzBuzz';
-  if (num % 3 === 0) return 'Fizz';
-  if (num % 5 === 0) return 'Buzz';
+export const search = () =>{}
+export const searchAlbums = () =>{}
+export const searchArtists = () =>{}
+export const searchTracks = () =>{}
+export const searchPlaylists = () =>{}
 
-  return num;
-};
-
-export default FizzBuzz;
