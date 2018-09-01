@@ -1,7 +1,7 @@
 {
-  "name": "jstdd",
+  "name": "spotify-wrapper",
   "version": "1.0.0",
-  "description": "Teste",
+  "description": "Um Wrapper para trabalhar com Web Api do Sporify",
   "main": "index.js",
   "scripts": {
     "lint": "node_modules\\.bin\\eslint src/*.js",
